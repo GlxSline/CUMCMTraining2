@@ -23,5 +23,7 @@ for move_times = 1:times_max
 
 end
 
-% figure;
-% plot((1:times_max), error_numb);
+figure;
+plot((1:times_max), error_numb(1:10));
+xlabel('times');
+ylabel('F(times)');

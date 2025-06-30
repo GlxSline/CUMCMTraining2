@@ -19,5 +19,3 @@ theta_O = atan2(-y_rand, -x_rand);
 theta_A = atan2(-y_rand, R_chosen - x_rand);
 theta_B = atan2(y_chosen(2) - y_rand, x_chosen(2) - x_rand);
 theta_C = atan2(y_chosen(3) - y_rand, x_chosen(3) - x_rand);
-
-

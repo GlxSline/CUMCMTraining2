@@ -1,5 +1,3 @@
-
-
 alpha_1 = zeros(1, 8);
 alpha_2 = pi / 2 - pi ./ 9 .* [(linspace(1, 4, 4)), (linspace(4, 1, 4))];
 
