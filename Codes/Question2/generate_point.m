@@ -6,4 +6,3 @@ rand_theta = 2 * pi * rand(1, 15);
 
 x_plane_now = x_plane + rand_rho .* cos(rand_theta);
 y_plane_now = y_plane + rand_rho .* sin(rand_theta);
-
